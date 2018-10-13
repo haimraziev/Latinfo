@@ -3545,16 +3545,16 @@ p.nominalBounds = new cjs.Rectangle(-32.7,-15.9,66.8,33.2);
 		
 		//טעינת סאונדים------------------
 		
-		createjs.Sound.registerSound("/sounds/bachata.mp3","ba");
-		createjs.Sound.registerSound("/sounds/bolero.mp3","bo");
-		createjs.Sound.registerSound("/sounds/cha_cha.mp3","cha");
-		createjs.Sound.registerSound("/sounds/kizomba.mp3","kiz");
-		createjs.Sound.registerSound("/sounds/merengue.mp3","me");
-		createjs.Sound.registerSound("/sounds/roomba.mp3","roo");
-		createjs.Sound.registerSound("/sounds/salsa.mp3","sal");
-		createjs.Sound.registerSound("/sounds/samba.mp3","sam");
-		createjs.Sound.registerSound("/sounds/tango.mp3","tan");
-		createjs.Sound.registerSound("/sounds/zouk.mp3","zu");
+		createjs.Sound.registerSound("https://raw.githubusercontent.com/haimraziev/Latinfo/master/Latinfo_DollyGotie_HaimRaziev/sounds/bachata.mp3","ba");
+		createjs.Sound.registerSound("https://raw.githubusercontent.com/haimraziev/Latinfo/master/Latinfo_DollyGotie_HaimRaziev/sounds/bolero.mp3","bo");
+		createjs.Sound.registerSound("https://raw.githubusercontent.com/haimraziev/Latinfo/master/Latinfo_DollyGotie_HaimRaziev/sounds/cha_cha.mp3","cha");
+		createjs.Sound.registerSound("https://raw.githubusercontent.com/haimraziev/Latinfo/master/Latinfo_DollyGotie_HaimRaziev/sounds/kizomba.mp3","kiz");
+		createjs.Sound.registerSound("https://raw.githubusercontent.com/haimraziev/Latinfo/master/Latinfo_DollyGotie_HaimRaziev/sounds/merengue.mp3","me");
+		createjs.Sound.registerSound("https://raw.githubusercontent.com/haimraziev/Latinfo/master/Latinfo_DollyGotie_HaimRaziev/sounds/roomba.mp3","roo");
+		createjs.Sound.registerSound("https://raw.githubusercontent.com/haimraziev/Latinfo/master/Latinfo_DollyGotie_HaimRaziev/sounds/salsa.mp3","sal");
+		createjs.Sound.registerSound("https://raw.githubusercontent.com/haimraziev/Latinfo/master/Latinfo_DollyGotie_HaimRaziev/sounds/samba.mp3","sam");
+		createjs.Sound.registerSound("https://raw.githubusercontent.com/haimraziev/Latinfo/master/Latinfo_DollyGotie_HaimRaziev/sounds/tango.mp3","tan");
+		createjs.Sound.registerSound("https://raw.githubusercontent.com/haimraziev/Latinfo/master/Latinfo_DollyGotie_HaimRaziev/sounds/zouk.mp3","zu");
 		
 		//הפעלת סאונדים-------------------
 		
@@ -4593,7 +4593,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Latinfo_DollyGotie_HaimRaziev_atlas_.png?1539432417772", id:"Latinfo_DollyGotie_HaimRaziev_atlas_"}
+		{src:"images/Latinfo_DollyGotie_HaimRaziev_atlas_.png?1539433391970", id:"Latinfo_DollyGotie_HaimRaziev_atlas_"}
 	],
 	preloads: []
 };
